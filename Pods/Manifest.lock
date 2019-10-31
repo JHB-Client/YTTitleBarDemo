@@ -1,0 +1,20 @@
+PODS:
+  - HBCategory (0.0.2)
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - HBCategory
+  - Masonry
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - HBCategory
+    - Masonry
+
+SPEC CHECKSUMS:
+  HBCategory: beaa9131043ed3d623de069b8ed4838c57d3b74c
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: 7f48fe07d890d83f65542f69e35453ce50b6d14e
+
+COCOAPODS: 1.7.5

@@ -1,0 +1,6 @@
+framework module Pods_YTTitleBarDemoTests {
+  umbrella header "Pods-YTTitleBarDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
